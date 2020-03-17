@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Home [ ] Team
+author: jbarrettsteiner
+email: donut-tees@domomi.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Wear a holy donut for your home team. You can wear holy donuts with your friends and family. 
+  We created the Donut Holy Tee for people to spark conversations, create memories and join our growing Home [ ] Team.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+twitter_username: jbarrettsteiner # DO NOT include the @ character, or else the build will fail!
+github_username:  jbarrettsteiner # DO NOT include the @ character, or else the build will fail!
+theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
